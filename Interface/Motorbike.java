@@ -7,7 +7,7 @@ public class Motorbike implements Interfaceclass {
     public Motorbike(int sh, int sgear, int sspeed){
         seath = sh;
         gear = sgear;
-        speed = sspeed;
+        speed = sspeed; 
     }
     public void applyBreak(int increment)
     {
